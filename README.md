@@ -13,7 +13,7 @@ This Data Analysis project aims to develop insight into the sales performance of
 The primary data source of data is Data Sales from xcel 
 
 ### Tools used
-- MS excel for Data cleaning [Download here](https://ww.microsoft.com)
+- MS excel for Data cleaning [Download here](https://www.microsoft.com)
     1. For Data Collection
     2. For Data Cleaning
 - SQL Server (For Querying and Analysis)
