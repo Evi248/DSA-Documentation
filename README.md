@@ -17,6 +17,29 @@ The primary data source of data is Data Sales from xcel
     1. For Data Collection
     2. For Data Cleaning
 - SQL Server (For Querying and Analysis)
-- MS Power Point ( for Presentation) 
+- Power Bi (for creating reort)
+- MS Power Point ( for Presentation)
+
+### Data Cleaning and Preparation
+In the initial phase of the Data cleaning and preparation, we perform the following action:
+  - Data loading and inspection
+  - Handling missing variables
+  - Data cleaning and formatting
+
+### Exploratory Data Analysis (EDA)
+EDA involved the exploring of the data to answer some questions about the Data such as:
+- What is the overall sales trend
+- Which product are top sellers
+- What are the product on peak sales?
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
+
+``` SQL
+SELECT  A,B,C
+WHERE A> 15
+```
+
+### Analysis
 
 
